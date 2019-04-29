@@ -6,5 +6,5 @@ Linux常用脚本合集
 
 ### Usage
 ```bash
-curl -sSL https://raw.githubusercontent.com/maxoyed/enjoy-script/master/server_init.sh
+curl -sSL https://raw.githubusercontent.com/maxoyed/enjoy-script/master/server_init.sh | sh
 ```
