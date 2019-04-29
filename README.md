@@ -12,7 +12,7 @@ curl -sSL https://raw.github.com/maxoyed/enjoy-script/master/server_init.sh | sh
 ## ssh_config.sh
 ssh主机管理，提供增删(待开发)查改功能。
 
-### 🚀![Download](https://raw.github.com/maxoyed/enjoy-script/master/ssh_config.sh)
+### 🚀[Download](https://raw.github.com/maxoyed/enjoy-script/master/ssh_config.sh)
 
 ### Usage
 ```bash
