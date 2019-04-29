@@ -7,7 +7,8 @@ apt update && \
 apt install nginx && \
 
 # install docker
-curl -sSL https://get.docker.com/ | sh
+curl -sSL https://get.docker.com/ | sh && \
 
 # install zsh
+apt install zsh && \
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
