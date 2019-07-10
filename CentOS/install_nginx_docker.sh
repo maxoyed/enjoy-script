@@ -14,7 +14,7 @@ baseurl=http://nginx.org/packages/mainline/centos/$releasever/$basearch/
 gpgcheck=1
 enabled=0
 gpgkey=https://nginx.org/keys/nginx_signing.key
-EOF
+EOF;
 yum-config-manager --enable nginx-mainline && \
 yum install nginx;
 
